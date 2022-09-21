@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    border: none;
+    font-family: "Sofia", sans-serif;
+    font: italic;
+    gap: 15px;
+}
